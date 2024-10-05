@@ -1,0 +1,38 @@
+[
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgMOTE3ODAwMjY0MDU3FQIAEhggQUJDOUI1NkU1NkEwNUI0ODgxNDEzQzQ1Q0Q5RTc3REEA",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "Hi! I want to start algo trading"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725869579,
+    "senderName": "dipkirajak36",
+    "senderMobile": "917800264057",
+    "status": "",
+    "star": false,
+    "route": "INCOMING"
+  },
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgMOTE3ODAwMjY0MDU3FQIAEhggQkY4RjMzRDhDNDc4NTE0RDAzMjY0OUY2QzU4QTFDMjkA",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "Hi"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725869584,
+    "senderName": "dipkirajak36",
+    "senderMobile": "917800264057",
+    "status": "",
+    "star": false,
+    "route": "INCOMING"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgMOTE3OTA1MzMxMTA3FQIAEhgUM0FFNTNEQTE2NTVDODhCRTNCQTEA",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "Hello"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725860828,
+    "senderName": "shubham",
+    "senderMobile": "917905331107",
+    "status": "",
+    "star": false,
+    "route": "INCOMING"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "type": "text",
+    "metaChatId": "wamid.HBgMOTE3OTg3NjYyMTg3FQIAEhggRTU3MTQ5NkExNTIxQzE5MjY3Rjk3MTVDOTQxNTBEMTUA",
+    "msgContext": {
+      "type": "text",
+      "text": {
+        "preview_url": true,
+        "body": "Hello"
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725860926,
+    "senderName": "Rituraj Singh",
+    "senderMobile": "917987662187",
+    "status": "",
+    "star": false,
+    "route": "INCOMING"
+  }
+]
